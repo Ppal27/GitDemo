@@ -1,2 +1,2 @@
 # GitDemo
-This is the demo project for git.
+This is the demo project for git.DEV
